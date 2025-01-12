@@ -21,15 +21,8 @@ I'm a passionate developer with experience in various programming languages and 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthGK2004&layout=compact&theme=radical)
 
-## Projects
-Here are some of my projects:
-- [Project 1](https://github.com/HemanthGK2004/project1)
-- [Project 2](https://github.com/HemanthGK2004/project2)
-
-Feel free to check out my repositories and contribute if you find something interesting!
-
 ## Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hemanthgk)
+- **Email:** gkhemanth0@gmail.com
 
 Thanks for visiting my profile
