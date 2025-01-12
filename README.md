@@ -32,4 +32,4 @@ Feel free to check out my repositories and contribute if you find something inte
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **Email:** your.email@example.com
 
-Thanks for visiting my profile!
+Thanks for visiting my profile
