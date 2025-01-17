@@ -2,14 +2,14 @@
 A passionate full-stack web developer and tech enthusiast. I enjoy building user-friendly applications, exploring new technologies, and solving problems through code.
 
 ## 🌱 Currently Learning
-- React.js for frontend development.
+- Node.js and Express.js for Backend development.
 - Advanced Data Structures and Algorithms (DSA).
 - Artificial Intelligence and Deep Learning
 
 ---
 
 ## 💬 Ask Me About
-- MERN Stack Development (MongoDB, Express, React, Node.js)
+- Frontend Development (HTML,CSS,JS,REACT.JS)
 - Java, Python, and Machine Learning.
 - Building user-friendly and responsive UIs.
 - Databases (MySQL, MongoDB).
