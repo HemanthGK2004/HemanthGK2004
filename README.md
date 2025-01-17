@@ -1,31 +1,18 @@
 # Hi 👋, I'm Hemanth G K  
 A passionate full-stack web developer and tech enthusiast. I enjoy building user-friendly applications, exploring new technologies, and solving problems through code.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20me&style=social)](https://github.com/yourusername)
-
----
-
 ## 🌱 Currently Learning
 - React.js for frontend development.
 - Advanced Data Structures and Algorithms (DSA).
-- Big Data Analytics using Apache Spark.
+- Artificial Intelligence and Deep Learning
 
 ---
 
 ## 💬 Ask Me About
-- MERN Stack Development (MongoDB, Express, React, Node.js).
+- MERN Stack Development (MongoDB, Express, React, Node.js)
 - Java, Python, and Machine Learning.
 - Building user-friendly and responsive UIs.
 - Databases (MySQL, MongoDB).
-
----
-
-## 📫 How to Reach Me
-- **Email**: hemanthgk@gmail.com  
-- **LinkedIn**: [Hemanth G K](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [Hemanth_GK](https://twitter.com/yourusername)
-
----
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
