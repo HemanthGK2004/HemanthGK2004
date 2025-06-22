@@ -19,6 +19,7 @@ A passionate **Full-Stack Web Developer**, **AI enthusiast**, and **Computer Sci
 - 🔧 DevOps (CI/CD, Docker, GitHub Actions)
 - 🧮 Data structures and Algorithms (Dynamic Proramming , Tress)
 - ⚙️ Advanced Backend with Node.js + Express + MongoDB
+- Building Full stack projects and Integrating with AI
 
 ---
 
