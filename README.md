@@ -60,7 +60,6 @@ A passionate **Full-Stack Web Developer**, **AI enthusiast**, and **Computer Sci
 ---
 
 ## 📊 GitHub Stats
-![HemanthGK2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemanthGK2004&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthGK2004&layout=compact&theme=radical)
 
 ---
